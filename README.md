@@ -1,0 +1,2 @@
+# GitPractice
+Learn git commands
